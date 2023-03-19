@@ -1,6 +1,8 @@
 ### Myndbönd:
 * [Rúlla bolta](https://youtu.be/LHYA76OZpw8)
 * [Top down](https://youtu.be/iXD7CViFydA)
+---
+
 <br>
 ### Svör við spurningum:
 * Scene view: þessi gluggi er til að sjá það sem myndavélin sér ekki maður getur farið um allt og séð þá hluti sem myndavélin eða spilarinn sér ekki
