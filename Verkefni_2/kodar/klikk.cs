@@ -3,11 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Klikk : MonoBehaviour
+public class Skipti : MonoBehaviour
 {
-    public void Byrja()
+    void Start()
     {
-        // setur spilara í næstu senu
-        SceneManager.LoadScene(1);
+        Debug.Log("byrja");
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        // spilari hverfur
+        other.gameObject.SetActive(false);
+        StartCoroutine(Bida());    
+    }
+    IEnumerator Bida()
+    {
+        // bíð í þrjár sekúndur
+        yield return new WaitForSeconds(3);
+        Endurræsa();
+    }
+    public void Endurræsa()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);//næsta sena
+    }
+
 }
