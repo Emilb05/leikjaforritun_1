@@ -4,7 +4,7 @@
 
 <br>
 
-[Kóðar]()
+[Kóðar](https://github.com/Emilb05/leikjaforritun_1/tree/main/Verkefni_3/kodar)
 
 ---
 
