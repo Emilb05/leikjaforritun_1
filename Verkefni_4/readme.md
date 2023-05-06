@@ -22,4 +22,4 @@
 
 <br>
 
-er að klára leikinn (ætla að klára á laugadaginn)
+er að klára leikinn
