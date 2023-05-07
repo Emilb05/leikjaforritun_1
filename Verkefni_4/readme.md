@@ -16,6 +16,6 @@
 
 <br>
 
-Ég fæ bara villu þegar ég ætla að 'Builda' leikinn.
+Ég fæ bara villu þegar ég ætla að 'Builda' leikinn. sérð það í myndbandinu
 
 [Release]() virkar ekki
