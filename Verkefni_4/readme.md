@@ -11,8 +11,6 @@
 <br>
 
 [Myndband af leiknum]()
-<br>
-[Myndband af leikja uppsetningu]()
 
 ---
 
