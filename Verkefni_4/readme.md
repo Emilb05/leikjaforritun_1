@@ -20,7 +20,7 @@
 
 Ég fæ bara villu þegar ég ætla að 'Builda' leikinn.
 
-[Release]()
+[Release]() virkar ekki
 
 <br>
 
