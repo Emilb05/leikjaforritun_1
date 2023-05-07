@@ -18,6 +18,10 @@
 
 <br>
 
+Ég fæ bara villu þegar ég ætla að 'Builda' leikinn.
+
+<br>
+
 [Release]()
 
 <br>
