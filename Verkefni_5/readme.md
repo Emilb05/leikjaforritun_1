@@ -16,4 +16,4 @@
 
 <br>
 
-[Release]()
+[Release](https://github.com/Emilb05/leikjaforritun_1/releases/tag/v1.0.0.0)
